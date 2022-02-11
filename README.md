@@ -15,6 +15,6 @@
 - E-mail: spal62588@gmail.com
 
 <div style="display: flex; flex-direction: row">
-	<img src="https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical" alt="Souvik Pal | stat"/>
-	<img height="182em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&theme=radical&layout=compact"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical" alt="stats"/>
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&theme=radical&layout=compact" alt="languages"/>
 </div>
