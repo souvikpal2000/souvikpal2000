@@ -14,7 +14,4 @@
 - Facebook: https://www.facebook.com/souvik.pal.92167/
 - E-mail: spal62588@gmail.com
 
-<div style="display: flex; flex-direction: row">
-	<img src="https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical" alt="stats"/>
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&theme=radical&layout=compact" alt="languages"/>
-</div>
+![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
