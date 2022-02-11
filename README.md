@@ -1,6 +1,6 @@
 # Hello / নমস্কার, I'm Souvik Pal 👋
 
-![Souvik](https://user-images.githubusercontent.com/59976277/109552120-6da56a00-7af7-11eb-8c03-1ef76ad26fd1.gif)
+![Souvik](https://user-images.githubusercontent.com/64771649/153574835-24e7d969-373f-42c0-b031-fbe5e79c6e3d.gif)
 
 - 🔭 I’m currently studying **Computer Science** at JIS College of Engineering
 - 🌱 I’m currently learning & practicing **Full Stack Web Development**
