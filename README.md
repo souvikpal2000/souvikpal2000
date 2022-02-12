@@ -8,10 +8,13 @@
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**
 
 ### 📬 Get in Touch
+
 - LinkedIn: https://www.linkedin.com/in/souvik-pal-4b4138171/
 - Site: https://portfolio-souvikpal.herokuapp.com/
 - Instagram: https://www.instagram.com/souvik_pal2000/
 - Facebook: https://www.facebook.com/souvik.pal.92167/
 - E-mail: spal62588@gmail.com
+
+### 📚 Looking for my Resume? E-Mail me!
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
