@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web Development** projects
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**
 
+![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical)
+
 <br clear="left"/>
 
 ### 📬 Get in Touch
