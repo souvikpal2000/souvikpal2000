@@ -25,5 +25,5 @@
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
 
-<img align="right" src="https://user-images.githubusercontent.com/64771649/153893302-733707cc-cf7c-44be-940f-edc4eb09b403.pngf">
+<img align="right" src="https://user-images.githubusercontent.com/64771649/153893302-733707cc-cf7c-44be-940f-edc4eb09b403.png">
 
