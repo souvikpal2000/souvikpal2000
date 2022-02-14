@@ -4,10 +4,10 @@
 
 <br />
 
-- 🔭 I’m currently studying **Computer Science** at JIS College of Engineering
-- 🌱 I’m currently learning & practicing **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Open Source** and/or **Web Development** projects
-- 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**
+- 🔭 I’m currently studying **Computer Science** at JIS College of Engineering.
+- 🌱 I’m currently learning & practicing **Full Stack Web Development**.
+- 👯 I’m looking to collaborate on **Web Development** Projects.
+- 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**.
 
 <br />
 
