@@ -2,10 +2,14 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/64771649/153574835-24e7d969-373f-42c0-b031-fbe5e79c6e3d.gif">
 
+<br />
+
 - 🔭 I’m currently studying **Computer Science** at JIS College of Engineering
 - 🌱 I’m currently learning & practicing **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web Development** projects
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**
+
+<br />
 
 ![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical)
 
