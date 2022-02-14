@@ -4,12 +4,10 @@
 
 <br />
 
-- 🔭 I’m currently studying **Computer Science** at JIS College of Engineering.
+- 🔭 I’m currently pursuing **CSE** at JIS College of Engineering.
 - 🌱 I’m currently learning & practicing **Full Stack Web Development**.
 - 👯 I’m looking to collaborate on **Web Development** Projects.
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**.
-
-<br />
 
 ![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical)
 
@@ -17,11 +15,11 @@
 
 ### 📬 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/souvik-pal-4b4138171/
-- Site: https://portfolio-souvikpal.herokuapp.com/
-- Instagram: https://www.instagram.com/souvik_pal2000/
-- Facebook: https://www.facebook.com/souvik.pal.92167/
-- E-mail: spal62588@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-pal-4b4138171/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spal62588@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-souvikpal.herokuapp.com/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souvik.pal.92167/)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/souvik_pal2000/)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
