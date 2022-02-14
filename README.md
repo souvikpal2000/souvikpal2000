@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web Development** projects
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**
 
+<br clear="left"/>
+
 ### 📬 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/souvik-pal-4b4138171/
