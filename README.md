@@ -26,3 +26,11 @@
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
+
+<img align="right" width="26%" src="https://user-images.githubusercontent.com/64771649/153985837-5f9547c3-b105-4c7c-8535-abcbb286570e.gif">
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
+
+<br clear="right"/>
