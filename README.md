@@ -23,10 +23,6 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souvik.pal.92167/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/souvik_pal2000/)
 
-<img align="right" src="https://user-images.githubusercontent.com/64771649/153896037-d52abb04-0481-4219-9274-e8cc79edad21.png">
-
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
-
-<br clear="right"/>
