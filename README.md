@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on **Web Development** Projects.
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**.
 
+<br />
+
 ![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical)
 
 <br clear="left"/>
@@ -21,8 +23,10 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souvik.pal.92167/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/souvik_pal2000/)
 
-<img align="right" src="https://user-images.githubusercontent.com/64771649/153893302-733707cc-cf7c-44be-940f-edc4eb09b403.png">
+<img align="right" src="https://user-images.githubusercontent.com/64771649/153896037-d52abb04-0481-4219-9274-e8cc79edad21.png">
 
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
+
+<br clear="right"/>
