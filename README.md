@@ -1,6 +1,6 @@
 # Hello / নমস্কার, I'm Souvik Pal 👋
 
-<img align="left" src="https://user-images.githubusercontent.com/64771649/153574835-24e7d969-373f-42c0-b031-fbe5e79c6e3d.gif" width="40%">
+<img align="left" src="https://user-images.githubusercontent.com/64771649/153574835-24e7d969-373f-42c0-b031-fbe5e79c6e3d.gif" width="38%">
 
 <br />
 
