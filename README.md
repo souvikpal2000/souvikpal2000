@@ -11,7 +11,8 @@
 
 <br />
 
-![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical)
+<!-- ![Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvikpal2000&layout=compact&theme=radical) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souvikpal2000&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br clear="left"/>
 
