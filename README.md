@@ -22,7 +22,7 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souvik.pal.92167/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/souvik_pal2000/)
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/64771649/171646549-f6a3a0a1-e4f5-452b-b863-78bf8b7bef7a.gif">
+<img align="right" width="28%" src="https://user-images.githubusercontent.com/64771649/171646549-f6a3a0a1-e4f5-452b-b863-78bf8b7bef7a.gif">
 
 ### 📚 Looking for my Resume? E-Mail me!
 
