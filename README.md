@@ -27,5 +27,3 @@
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
-
-<br clear="right"/>
