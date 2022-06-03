@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/souvik_pal2000/)
 
 <!-- <img align="right" width="29%" src="https://user-images.githubusercontent.com/64771649/171646549-f6a3a0a1-e4f5-452b-b863-78bf8b7bef7a.gif"> -->
-<img align="right" width="38%" src="https://user-images.githubusercontent.com/64771649/171796006-0bea3cc8-8d66-4f49-b356-e1abe2fb80ec.gif">
+<img align="right" width="37%" src="https://user-images.githubusercontent.com/64771649/171796006-0bea3cc8-8d66-4f49-b356-e1abe2fb80ec.gif">
 
 ### 📚 Looking for my Resume? E-Mail me!
 
