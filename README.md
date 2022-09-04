@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I’m currently pursuing **CSE** at JIS College of Engineering.
+- 🔭 Graduated from **JIS College of Engineering** with **9.11** DGPA.
 - 🌱 I’m currently learning & practicing **Full Stack Web Development**.
 - 👯 I’m looking to collaborate on **Web Development** Projects.
 - 💬 I'm mostly active within the **React.JS**, **Node.JS**, **MongoDB**.
