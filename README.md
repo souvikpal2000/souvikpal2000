@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=souvikpal2000&style=for-the-badge)
 [![leetcode badge](https://img.shields.io/badge/souvik_pal2000-30302f?style=for-the-badge&logo=leetcode)](https://leetcode.com/souvik_pal2000/)
+[![hackerrank badge](https://img.shields.io/badge/souvik_pal2000-30302f?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/souvik_pal2000)
 
 <img align="left" src="https://user-images.githubusercontent.com/64771649/153574835-24e7d969-373f-42c0-b031-fbe5e79c6e3d.gif" width="37%">
 
