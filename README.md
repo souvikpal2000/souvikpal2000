@@ -33,6 +33,6 @@
 
 ![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikpal2000&show_icons=true&theme=radical)
 
-<br/>
+<!-- <br/>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souvikpal2000&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souvikpal2000&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true) -->
